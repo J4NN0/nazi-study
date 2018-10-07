@@ -15,6 +15,7 @@ using namespace std;
 
 void go_background();
 void shows_up();
+
 void get_current_hours(int *hours, int *minutes);
 int check_nazi_hour(int hours, int minutes);
 bool is_running(string pName);
@@ -57,11 +58,11 @@ int main()
                 prog += ".exe";
                 if(is_running(prog)){
                     flag = true;
-                    cout << "SIAMO IN ORA NAZI E QUESTO PROGRAMMA MI FA PENSARE MALE: " << prog << endl;
+                    cout << "We're in nazi-hour and this program let me think bad (af): " << prog << endl;
                 }
             }
             if(flag){
-                shows_up();
+                //shows_up();
                 //system("");
             }
         }

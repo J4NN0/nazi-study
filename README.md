@@ -10,4 +10,4 @@ Put inside blacklist.txt the programs you would not want to use during your stud
 In the remaining hours the program will try to stop you from yourself.
 
 # Extra
-This (troll) idea is born looking at one my friend that he was studying non-stop until lunch or dinner they were not ready. She does this stuff all days and then we think together for a solution and here i am! She will love me, i know it.
+This (troll) idea is born looking at one my friend that she was studying non-stop until lunch or dinner they were not ready. She does this stuff all days and then we think together for a solution and here i am! She will love me, i know it.

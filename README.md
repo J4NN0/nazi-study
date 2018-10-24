@@ -2,7 +2,7 @@
 A C++ program for windows forcing you to study 
 
 # Usage
-    blacklist.txt contains program's name to be blocked 
+    blacklist.txt contains program's name that have to be blocked 
 Put inside blacklist.txt the programs you would not want to use during your studing time, run the program and enjoy your study. 
 
 # More

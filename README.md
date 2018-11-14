@@ -1,5 +1,5 @@
 # nazi-study
-A C++ program for windows forcing you to study 
+A C++ program for windows that forces you to study 
 
 # Usage
     blacklist.txt contains program's name that have to be blocked 
@@ -23,4 +23,4 @@ If you want you can run this program at windows startup:
   3. Copy the .exe into the startup folder
   
 # Extra
-This (troll) idea is born looking at one my friend that she was studying non-stop until lunch or dinner were not ready. She does this stuff all days and then we thought together for a solution and here i am! She will love me, i know it.
+This (troll) idea is born looking at one my friend studying non-stop until lunch or dinner were not ready. She does this stuff all days and then we thought together about a solution and here I am! She will love me, I already know it.

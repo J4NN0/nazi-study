@@ -12,7 +12,7 @@ A windows C++ program that forces you to study.
 
 If you want you to run this program at windows startup:
 - Windows 7
-  1. Click on `Start Menù`
+  1. Click on `Start Menu`
   2. Click on `All programs`
   3. Search `Startup` folder
   4. Copy the `.exe` into the startup folder
@@ -27,4 +27,4 @@ If you want you to run this program at windows startup:
   
 # Extra
 
-This (troll) idea was born looking at one my friend studying non-stop until lunch or dinner were not ready. She does this stuff all days and then we thought together about a solution and here I am! She will love me, I already know it. Ciao Deb!
+This (troll) idea was born looking at one my friend studying non-stop until lunch or dinner were not ready. She used to study in this way like every day, for this reason we (maybe more me than her) thought together about a solution and here I am with this great idea! She will love me, I already know it. Ciao Deb!
